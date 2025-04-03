@@ -21,3 +21,9 @@ Projeto de modelagem conceitual de um banco de dados para uma aplicação E-Comm
 ---
 
 🧠 *Esse modelo pode ser base para implementação futura de um banco relacional (DER e scripts SQL).*
+---
+
+### 📌 Modelo Conceitual Visual
+
+![Modelo Conceitual](modelo_conceitual_ecommerce.png.png)
+
