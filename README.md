@@ -1,6 +1,6 @@
-# Modelo Conceitual - E-Commerce 🛒
+# Modelo Conceitual - Sora Video Editor V3 🛒
 
-Projeto de modelagem conceitual de um banco de dados para uma aplicação E-Commerce.
+Projeto de modelagem conceitual de um banco de dados para a aplicação de edição de vídeo Sora.
 
 ## 📌 Entidades e Relacionamentos
 
@@ -10,8 +10,8 @@ Projeto de modelagem conceitual de um banco de dados para uma aplicação E-Comm
 
 ## 🧩 Arquivos no repositório
 
-- `modelo_conceitual_ecommerce.drawio`: diagrama editável feito no Draw.io
-- `modelo_conceitual_ecommerce.png.png`: imagem do modelo para visualização rápida
+- `sora_video_editor_v3.drawio`: diagrama editável feito no Draw.io
+- `sora_video_editor_v3.png`: imagem do modelo para visualização rápida
 
 ## 🛠️ Ferramentas utilizadas
 
@@ -25,5 +25,5 @@ Projeto de modelagem conceitual de um banco de dados para uma aplicação E-Comm
 
 ### 📌 Modelo Conceitual Visual
 
-![Modelo Conceitual](modelo_conceitual_ecommerce.png.png)
+![Modelo Conceitual](sora_video_editor_v3.png)
 
